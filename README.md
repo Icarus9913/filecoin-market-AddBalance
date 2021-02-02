@@ -1,4 +1,4 @@
-#Filecoin-market-AddBalance
+##Filecoin-market-AddBalance
 
 You can add some fils to your lotus storage-deals market, which can avoid auto addBalance with filecoin net jams and high gas fee.
 
